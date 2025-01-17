@@ -5,3 +5,5 @@ In particular, it is thought for a last-minute-market where shop owners, after r
 Similarely, each people, after registering to the platform, can pick a seller and choose what to buy from it.
 
 Alternatively, the buyer can filter the market according to price range criteria, missing days to expiration or type of food and choose to buy something based from the filtered market.
+
+Code is avalilable both in .py and in .ipynb (Jupyter Notebook) format.
